@@ -11,5 +11,8 @@
 int main() (
 
  printf("Landon Lord\n");
- 
+ printf("Computer Engineering\n")
+
+ return 0;
+
 )
